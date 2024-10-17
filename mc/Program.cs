@@ -13,7 +13,6 @@ namespace mc
                 {
                     return;
                 }
-
                 var Lexer = new Lexer(line);
                 while (true)
                 {
@@ -43,8 +42,6 @@ namespace mc
         EndOfFileToken
     }
 
-
-
     class SyntaxToken
     {
         public SyntaxToken(SyntaxKind kind, int position, string text, object value)
@@ -62,6 +59,7 @@ namespace mc
     }
 
     class Lexer
+
     {
         private readonly string _text;
         private int _position;
@@ -143,6 +141,13 @@ namespace mc
             return new SyntaxToken(SyntaxKind.BadToken, _position++, _text.Substring(_position - 1, 1), null);
         }
     }
+        
+    class Parser{
+        public Parser(string text)
+        {
+            
+        }
+    }   
         /*    public SyntaxToken NextToken()
            {
                //<number>
@@ -194,4 +199,4 @@ namespace mc
                return new SyntaxToken(SyntaxKind.BadToken, _position++, _text.Substring(_position - 1, 1), null);
            }
        } */
-    }
+}
