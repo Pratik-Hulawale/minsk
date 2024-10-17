@@ -1,0 +1,15 @@
+C:\Users\dell\OneDrive\Desktop\Compiler\minsk\mc\bin\Debug\net8.0\mc.exe
+C:\Users\dell\OneDrive\Desktop\Compiler\minsk\mc\bin\Debug\net8.0\mc.deps.json
+C:\Users\dell\OneDrive\Desktop\Compiler\minsk\mc\bin\Debug\net8.0\mc.runtimeconfig.json
+C:\Users\dell\OneDrive\Desktop\Compiler\minsk\mc\bin\Debug\net8.0\mc.dll
+C:\Users\dell\OneDrive\Desktop\Compiler\minsk\mc\bin\Debug\net8.0\mc.pdb
+C:\Users\dell\OneDrive\Desktop\Compiler\minsk\mc\obj\Debug\net8.0\mc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\OneDrive\Desktop\Compiler\minsk\mc\obj\Debug\net8.0\mc.AssemblyInfoInputs.cache
+C:\Users\dell\OneDrive\Desktop\Compiler\minsk\mc\obj\Debug\net8.0\mc.AssemblyInfo.cs
+C:\Users\dell\OneDrive\Desktop\Compiler\minsk\mc\obj\Debug\net8.0\mc.csproj.CoreCompileInputs.cache
+C:\Users\dell\OneDrive\Desktop\Compiler\minsk\mc\obj\Debug\net8.0\mc.sourcelink.json
+C:\Users\dell\OneDrive\Desktop\Compiler\minsk\mc\obj\Debug\net8.0\mc.dll
+C:\Users\dell\OneDrive\Desktop\Compiler\minsk\mc\obj\Debug\net8.0\refint\mc.dll
+C:\Users\dell\OneDrive\Desktop\Compiler\minsk\mc\obj\Debug\net8.0\mc.pdb
+C:\Users\dell\OneDrive\Desktop\Compiler\minsk\mc\obj\Debug\net8.0\mc.genruntimeconfig.cache
+C:\Users\dell\OneDrive\Desktop\Compiler\minsk\mc\obj\Debug\net8.0\ref\mc.dll
